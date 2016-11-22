@@ -3,12 +3,12 @@
 
 
 
-##The .py file contains my first text editor designed and developed by me using tkinter in python and contains features like-
+##The .py file contains basic text editors designed and developed by me using tkinter in python and contains features like-
 
 
->New,
->open
->save and about 
+>New
+>Open
+>Save and About the develper section. 
 
 
 ##This is for learning purpose only and is ver basic kind of text editor.
